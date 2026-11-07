@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+.agent-dashboard/
+.venv/
+venv/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Example emblem: a crown. Replace this file with your own logo (one filled shape works best). -->
+  <path fill="#222" d="M10 78 L16 30 L34 52 L50 18 L66 52 L84 30 L90 78 Z M14 84 H86 V92 H14 Z"/>
+</svg>
